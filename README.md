@@ -1,8 +1,8 @@
 <h1 align="center">Jenil J. Moradiya</h1>
-<h3 align="center">Computer Engineering Student | Discord Bot Developer</h3>
+<h3 align="center">Computer Engineering Student | Freelancer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=440&lines=Discord+Bot+Developer;Diploma+in+Computer+Engineering;Currently+Learning+HTML+%26+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=440&lines=Freelancer;Discord+Server+Developer;Discord+Security+Maker;Discord+Template+Maker" alt="Typing SVG" />
 </p>
 
 <hr>
@@ -32,19 +32,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Skills" />
-</p>
-
-<hr>
-
-<h3 align="center">GitHub Statistics</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=its2jenil-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=its2jenil-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its2jenil-dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <hr>
